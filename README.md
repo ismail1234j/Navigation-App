@@ -5,7 +5,7 @@ A Windows app I've made for fun. I've tried here to make an ui that resembles a 
 - Turning off the screen
 - Controling Volume (Nearly there)
 
-Maybe I'll get it running on a windows mini pc (Atom based?) but for now im only coding for fun.
+Maybe I'll get it running on a windows mini pc (Atom based?) and link it up to a car, but for now im only coding for fun.
 
 # Screenshots
 
