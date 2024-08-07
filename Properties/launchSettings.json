@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Nav (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Nav (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
